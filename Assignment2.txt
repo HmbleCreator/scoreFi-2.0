@@ -1,0 +1,40 @@
+# Problem statement #2
+
+### **Round 2 Assignment: Wallet Risk Scoring From Scratch**
+
+### **Instructions:**
+
+### Given your experience working with the aave V2 protocol, it's assumed that you have a clear understanding of lending protocols and on-chain transaction analysis.
+
+In this assignment, you are provided with a list of wallet addresses. Your task is as follows:
+
+1. **Fetch Transaction History:**
+    - Retrieve the transaction data for each provided wallet address from compound V2 or V3 protocol.
+2. **Data Preparation:**
+    - Organize and preprocess the transaction data to create meaningful features that can reflect each wallet's risk profile.
+3. **Risk Scoring:**
+    - Develop a scoring model that assigns each wallet a risk score ranging from **0 to 1000**.
+    - Clearly document your feature selection, normalization method, and scoring logic.
+
+### **Deliverables:**
+
+- A CSV file with columns:
+
+| **wallet_id** | **score** |
+| --- | --- |
+| 0xfaa0768bde629806739c3a4620656c5d26f44ef2 | 732 |
+- A brief explanation detailing your:
+    - Data Collection method
+    - Feature selection rationale
+    - Scoring method
+    - Justification of the risk indicators used
+
+Please ensure your approach is clear, justified, and scalable.
+
+Please find the link for all the 100 wallets
+
+https://docs.google.com/spreadsheets/d/1ZzaeMgNYnxvriYYpe8PE7uMEblTI0GV5GIVUnsP-sBs/edit?usp=sharing
+
+Submission 
+
+https://forms.gle/epKXzFGg9rxCea728
