@@ -1,4 +1,5 @@
-<div align="center"> # scoreFi-2.0 </div>
+<h1 align="center">ScoreFi-2.0</h1>
+
 
 
 
