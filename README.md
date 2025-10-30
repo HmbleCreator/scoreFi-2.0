@@ -6,7 +6,7 @@
 # Compound Protocol Wallet Risk Scoring System
 
 ## Project Overview
-This project implements a risk scoring system for DeFi wallets interacting with the Compound V2 and V3 protocols. The system analyzes on-chain transaction patterns, behavioral indicators, and risk management practices to assign risk scores between 0-1000, where higher scores indicate higher risk.
+This project implements a risk scoring system for DeFi wallets interacting with the Compound V2 and V3 protocols. It is an extension of my existing Risk Scoring system:  [ScoreFi](https://github.com/HmbleCreator/scoreFi). The current system analyzes live on-chain transaction patterns, behavioral indicators, and risk management practices to assign risk scores between 0-1000, where higher scores indicate higher risk.
 
 ## Methodology and Rationale
 For a detailed explanation of the data collection, feature selection, scoring method, and justification of risk indicators, please see [approach.md](./approach.md).
